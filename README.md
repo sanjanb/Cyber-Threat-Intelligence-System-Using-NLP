@@ -1,16 +1,6 @@
 # Cyber-Threat-Intelligence-System-Using-NLP
 AI-Based Predictive Cyber Threat  Intelligence System Using Natural Language  Processing (NLP)
 
-Great choice for a major project! An **AI-Based Predictive Cyber Threat Intelligence System Using Natural Language Processing (NLP)** combines cutting-edge technologies to solve real-world cybersecurity problems. Here’s a detailed breakdown to help you get started:
-
----
-
-## 🔍 **Title**
-
-**AI-Based Predictive Cyber Threat Intelligence System Using Natural Language Processing (NLP)**
-
----
-
 ## 📚 **Literature Review**
 
 A literature review presents an overview of existing work in the field. Here’s how to frame it:
